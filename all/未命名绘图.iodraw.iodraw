@@ -122,7 +122,7 @@
         <mxCell id="SpW7KTDCUVcLNx3RYtn_-36" value="语音报警，数据上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SpW7KTDCUVcLNx3RYtn_-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SpW7KTDCUVcLNx3RYtn_-39" value="根据循迹结果调速，调整方向行驶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="355" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SpW7KTDCUVcLNx3RYtn_-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpW7KTDCUVcLNx3RYtn_-33" target="SpW7KTDCUVcLNx3RYtn_-39">
