@@ -52,6 +52,12 @@
         <mxCell id="SpW7KTDCUVcLNx3RYtn_-20" value="烟雾浓度&amp;gt;阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="460" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="SpW7KTDCUVcLNx3RYtn_-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpW7KTDCUVcLNx3RYtn_-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
