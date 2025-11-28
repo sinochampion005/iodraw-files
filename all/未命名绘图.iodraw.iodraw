@@ -94,10 +94,15 @@
         <mxCell id="SpW7KTDCUVcLNx3RYtn_-30" value="执行避障动作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="350" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SpW7KTDCUVcLNx3RYtn_-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SpW7KTDCUVcLNx3RYtn_-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SpW7KTDCUVcLNx3RYtn_-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="520" as="sourcePoint" />
-            <mxPoint x="440" y="470" as="targetPoint" />
+            <mxPoint x="415" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpW7KTDCUVcLNx3RYtn_-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpW7KTDCUVcLNx3RYtn_-31">
+          <mxGeometry y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
