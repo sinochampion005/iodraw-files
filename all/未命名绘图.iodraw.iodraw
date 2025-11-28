@@ -82,8 +82,8 @@
         </mxCell>
         <mxCell id="SpW7KTDCUVcLNx3RYtn_-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489" y="510" as="sourcePoint" />
-            <mxPoint x="550" y="510" as="targetPoint" />
+            <mxPoint x="479" y="370" as="sourcePoint" />
+            <mxPoint x="540" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SpW7KTDCUVcLNx3RYtn_-29" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SpW7KTDCUVcLNx3RYtn_-28">
@@ -91,8 +91,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpW7KTDCUVcLNx3RYtn_-30" value="语音报警，&lt;br&gt;蓝牙发送实时数据于手机上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="SpW7KTDCUVcLNx3RYtn_-30" value="执行避障动作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="350" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
