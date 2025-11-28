@@ -49,7 +49,7 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpW7KTDCUVcLNx3RYtn_-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SpW7KTDCUVcLNx3RYtn_-20" value="烟雾浓度&amp;gt;阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="460" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
